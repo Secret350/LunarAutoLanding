@@ -1,5 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02c86aea-84f9-4e47-97e8-b9a5ffc289e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Secret350"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Secret350/LunarAutoLander.git",
+    "accountId": "0aaab3cb-bb9c-40b2-bdc6-ecbfc1b3a07d"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000112296961696" />
+      <entry key="MS500" value="1.155694944597046" />
+      <entry key="S2" value="3.652322551273186" />
+      <entry key="S5" value="9.29225003379306" />
+      <entry key="S10" value="17.401503511685725" />
+      <entry key="S30" value="42.92156419568825" />
+      <entry key="S60" value="72.54450603371718" />
+      <entry key="M2" value="112.75035377474333" />
+      <entry key="M5" value="161.77268247343548" />
+      <entry key="M10" value="185.9884938222009" />
+      <entry key="M15" value="195.276737597551" />
+      <entry key="M30" value="205.26064039277125" />
+      <entry key="H1" value="210.53194097095087" />
+      <entry key="H2" value="213.24086298679893" />
+      <entry key="H4" value="214.61408928356792" />
+      <entry key="D1" value="215.76812841360032" />
+      <entry key="W1" value="215.966853704778" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.03695528137539E-38" />
+      <entry key="MS500" value="3.320555838404097E-8" />
+      <entry key="S2" value="0.013499034178129329" />
+      <entry key="S5" value="0.1786985706619056" />
+      <entry key="S10" value="0.42272755196315853" />
+      <entry key="S30" value="0.7529609927756452" />
+      <entry key="S60" value="0.9158761530358345" />
+      <entry key="M2" value="1.1533806410703304" />
+      <entry key="M5" value="1.52001564206755" />
+      <entry key="M10" value="1.7262306470941122" />
+      <entry key="M15" value="1.8089591745229472" />
+      <entry key="M30" value="1.8999270737017742" />
+      <entry key="H1" value="1.9487678512545923" />
+      <entry key="H2" value="1.9740774904367235" />
+      <entry key="H4" value="1.986961176493573" />
+      <entry key="D1" value="1.9978160068583584" />
+      <entry key="W1" value="1.999687734039329" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.979421488374412" />
+      <entry key="MS500" value="1.0805252140995185" />
+      <entry key="S2" value="3.442218333781607" />
+      <entry key="S5" value="9.261566918075658" />
+      <entry key="S10" value="17.655533545680324" />
+      <entry key="S30" value="43.58465592064604" />
+      <entry key="S60" value="73.39919189529014" />
+      <entry key="M2" value="113.86090383610515" />
+      <entry key="M5" value="163.26921641422743" />
+      <entry key="M10" value="187.7013711583415" />
+      <entry key="M15" value="197.07637845113504" />
+      <entry key="M30" value="207.15568363769518" />
+      <entry key="H1" value="212.478207396744" />
+      <entry key="H2" value="215.21367444738246" />
+      <entry key="H4" value="216.60041355954243" />
+      <entry key="D1" value="217.7658377258612" />
+      <entry key="W1" value="217.96652618333357" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EacrDGDrkjNCwuJLOThpZKA6do" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -7,9 +97,54 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.copt.set.tls.settings.CodeAssistSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.copt.set.tls.settings.CodeAssistSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02c86aea-84f9-4e47-97e8-b9a5ffc289e0" name="Changes" comment="" />
+      <created>1780420318027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780420318027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
